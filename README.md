@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Alexandre Alves}!</strong>
+## 💜 Olá, meu nome é <strong>Alexandre Alves!</strong>
 
 >  Desenvolvedor Web com conhecimento em:
    Java
