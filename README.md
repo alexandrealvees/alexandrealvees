@@ -4,9 +4,9 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando **Ciência de Dados** no <a href="https://www.iesb.br/graduacao/curso/ciencia-de-dados-remoto-">IESB</a>.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor de Software** na <a href="https://www.bb.com.br/pbb/pagina-inicial">Banco do Brasil</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Ciencia de Dados e Cybersegurança**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
