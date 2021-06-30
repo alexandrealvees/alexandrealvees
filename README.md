@@ -56,6 +56,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Alexandre Alves](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-alvees/)](https://www.linkedin.com/in/alexandre-alvees/)
+[![Linkedin: Alexandre Alves](https://img.shields.io/badge/-ALEXANDRE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-alvees/)](https://www.linkedin.com/in/alexandre-alvees/)
 [![Gmail Badge](https://img.shields.io/badge/-alexandrealveeess@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub Alexandre Alves]( https://img.shields.io/github/followers/alexandrealvees?label=follow&style=social)](https://github.com/alexandrealvees)
