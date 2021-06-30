@@ -1,18 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Alexandre Alves!</strong>
 
->  Desenvolvedor Web com conhecimento em:
-   Java
-   JavaScript
-   HTML
-   CSS 
-   Node.js 
-   Angular
-   
->  Cientista de Dados com conhecimento em:
-   Python
-   hadoop
-   SQL
-   SAS
+>  Desenvolvedor Web com conhecimento em Java, JavaScript, HTML, CSS, Node.js, Angular,   
+>  Cientista de Dados com conhecimento em: Python, hadoop, SQL,SAS
+>  Hacker Ethical com conhecimento em Testes de Intrusão
    
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
