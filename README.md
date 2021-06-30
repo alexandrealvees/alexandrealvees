@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Graduado em **Ciência de Dados** no <a href="https://www.unip.br/cursos/graduacao/tradicionais/ciencia_computacao.aspx">UNIP</a>.
+- 🎓 &nbsp; Graduado em **Ciência de Dados** na <a href="https://www.unip.br/cursos/graduacao/tradicionais/ciencia_computacao.aspx">UNIP</a>.
 - 🎓 &nbsp; Pós Graduando em **Ciência de Dados** no <a href="https://www.iesb.br/graduacao/curso/ciencia-de-dados-remoto-">IESB</a>.
 - 🎓 &nbsp; Pós Graduando **Ciência de Dados** no <a href="https://www.igti.com.br/pos-graduacao/seguran%C3%A7a-cibernetica">IGTI</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor de Software** na <a href="https://www.bb.com.br/pbb/pagina-inicial">Banco do Brasil</a>
