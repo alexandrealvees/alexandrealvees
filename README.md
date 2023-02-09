@@ -54,11 +54,11 @@
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/alexandrealvees">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrealvees&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/alexandrealvees">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrealvees&show_icons=true&theme=dracula&line_height=27" alt="**Alexandre Alves** github stats"/>
 </a>
 
