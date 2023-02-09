@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduado em **Ciência da Computação** na <a href="https://www.unip.br/cursos/graduacao/tradicionais/ciencia_computacao.aspx">UNIP</a>.
-- 🎓 &nbsp; Pós Graduando em **Ciência de Dados** no <a href="https://www.iesb.br/graduacao/curso/ciencia-de-dados-remoto-">IESB</a>.
+- 🎓 &nbsp; Pós Graduando em **Ciência de Dados** no <a href="https://www.iesb.br/cursos/pos-remota-em-ciencia-de-dados-e-suas-aplicacoes-imersao">IESB</a>.
 - 🎓 &nbsp; Pós Graduando em **Cibersegurança** no <a href="https://www.igti.com.br/pos-graduacao/seguran%C3%A7a-cibernetica">IGTI</a>.
 - 🎓 &nbsp; Pós Graduando em **Engenharia de Software** no <a href="https://posgraduacao.infnet.edu.br/ead/mba-engenharia-de-software-java/">INFNET</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor de Software** na <a href="https://www.caixa.gov.br/Paginas/home-caixa.aspx">Tribunal Superior Eleitoral</a>
