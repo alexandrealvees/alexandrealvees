@@ -7,9 +7,9 @@
 - 🎓 &nbsp; Graduado em **Ciência da Computação** na <a href="https://www.unip.br/cursos/graduacao/tradicionais/ciencia_computacao.aspx">UNIP</a>.
 - 🎓 &nbsp; Pós Graduando em **Ciência de Dados** no <a href="https://www.iesb.br/cursos/pos-remota-em-ciencia-de-dados-e-suas-aplicacoes-imersao">IESB</a>.
 - 🎓 &nbsp; Pós Graduando em **Cibersegurança** no <a href="https://www.xpeducacao.com.br/bootcamp/analista-de-ataque-cibernetico">XP Educação</a>.
-- 🎓 &nbsp; Pós Graduando em **Engenharia de Software** no <a href="https://posgraduacao.infnet.edu.br/ead/mba-engenharia-de-software-java/">INFNET</a>.
+- 🎓 &nbsp; Pós Graduando em **Arquitetura e Desenvolvimento Java** no <a href="https://posgraduacao.infnet.edu.br/ead/mba-engenharia-de-software-java/">FIAP</a>.
 - 🎓 &nbsp; Pós Graduando em **Offensive Cyber Security - Red Team Operations** na <a href="https://postech.fiap.com.br/curso/offensive-cyber-security-red-team-ops/">FIAP</a>
-- 💼 &nbsp; Trabalhando como **Desenvolvedor de Software** na <a href="https://www.tse.jus.br/">Tribunal Superior Eleitoral</a>
+- 💼 &nbsp; Trabalhando como **Analista de Cybersegurança** na <a href="https://www.tse.jus.br/">LOQED SYSTEMS</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Ciencia de Dados e Cybersegurança**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
